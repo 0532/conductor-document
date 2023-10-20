@@ -1,6 +1,6 @@
 ## Conductor官方文档中文版
 
- <img align='right' src='https://octodex.github.com/images/mona-the-rivetertocat.gif' width='200'>
+ <img align='right' src='https://octodex.github.com/images/mona-the-rivetertocat.png' width='200'>
  
 ### 目录：
 
